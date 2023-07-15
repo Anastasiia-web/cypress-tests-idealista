@@ -1,0 +1,25 @@
+{
+  "name": "cypress-tests-idealista",
+  "version": "1.0.0",
+  "description": "testing idealista.com web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasiia-web/idealista.git"
+  },
+  "keywords": [
+    "tests"
+  ],
+  "author": "Anastasiia Ivashchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasiia-web/idealista/issues"
+  },
+  "homepage": "https://github.com/Anastasiia-web/idealista#readme",
+  "devDependencies": {
+    "cypress": "^4.2.0"
+  }
+}
